@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>codewichtel</title>
+        <link>http://codewichtel.de/</link>
+        <description>sec &amp; web</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>daniel@codewichtel.de (Daniel Brito Mendes)</managingEditor>
+            <webMaster>daniel@codewichtel.de (Daniel Brito Mendes)</webMaster>
+            <atom:link href="http://codewichtel.de/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
